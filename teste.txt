@@ -7,3 +7,19 @@ $ git push --set-upstream origin master
 
 ver versões
 $ git reflog
+
+subindo atualizações
+git push
+
+voltar versão localmente
+git reflog pra pegar o numero da versão
+git reset --hard 1s52
+
+ver todas as branch
+git branch
+
+criar nova branch
+git branch nomedaBranch
+
+trabalhar na branch correta
+git checkout novaBranch
