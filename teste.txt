@@ -1,3 +1,6 @@
 é um teste
 acessa repositorio github e adicionando
 $ git remote add origin https://github.com/mcalux/testegit
+
+caso esteja subindo a primeira vez na master
+$ git push --set-upstream origin master
