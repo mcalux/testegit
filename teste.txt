@@ -27,6 +27,8 @@ git checkout novaBranch
 subir nova branch
 git push --set-upstream origin novaBranch
 
+antes de fazer o merge baixa a branch pois algeum pode ter alterado e subido
+git pull
 para atualizar a branch master(estou pegando as alterções da branch novaBranch e incluindo na master)
 git merge novaBranch
 
