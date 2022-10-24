@@ -23,3 +23,6 @@ git branch nomedaBranch
 
 trabalhar na branch correta
 git checkout novaBranch
+
+subir nova branch
+git push --set-upstream origin novaBranch
