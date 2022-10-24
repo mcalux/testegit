@@ -34,3 +34,6 @@ git merge novaBranch
 
 atualizar o gitlab
 git push
+
+pra criar uma branch
+git checkout -b nomeBranh nomeBranchCopia
