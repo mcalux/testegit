@@ -26,3 +26,9 @@ git checkout novaBranch
 
 subir nova branch
 git push --set-upstream origin novaBranch
+
+para atualizar a branch master(estou pegando as alterções da branch novaBranch e incluindo na master)
+git merge novaBranch
+
+atualizar o gitlab
+git push
