@@ -1,3 +1,3 @@
 é um teste
-acessa repositorio github
-$ git remote https://github.com/mcalux/testegit
+acessa repositorio github e adicionando
+$ git remote add origin https://github.com/mcalux/testegit
