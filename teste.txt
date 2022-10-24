@@ -4,3 +4,6 @@ $ git remote add origin https://github.com/mcalux/testegit
 
 caso esteja subindo a primeira vez na master
 $ git push --set-upstream origin master
+
+ver versões
+$ git reflog
